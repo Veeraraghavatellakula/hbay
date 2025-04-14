@@ -11,13 +11,13 @@
 
 .App-header {
   background-color: #63769a;
-  min-height: 100vh;
+  min-height: 200vh;
   display: flex;
-  flex-direction: column;
+  flex-direction:  column-reverse;
   align-items: center;
   justify-content: center;
   font-size: calc(10px + 2vmin);
-  color: rgb(207, 19, 19);
+  color: rgb(125, 9, 9);
 }
 
 .App-link {
